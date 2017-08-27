@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.2.1_eb98abb262140731f3f12f5f02430c39fb3409e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48917c60ea81213ea39cbd7123996a5401106dc3">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.2.1_2982ecffa92a5eeaf0377455be176e84be7b2df2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_8d2d5ed1f6da8b3206fb8bbdce0d2c95ddc474bc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_22bd2451f975c3aac23717a08abacf5dda9c3d1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fbcore-1.0.1_ef19efaf48018070c91decfa6dc1744efe2be171.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\3.0.0\5871fb60dc68d67da54a663c3fd636a10a532948\jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\jsr305-3.0.0_0255952552b84eab603a97c2f795ddb32594e311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_9757c19478a1d7e254367a3b9779365144a11978.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_6c95e7716fc87e9d5a13edcc6aa1559d7220747f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.2.1_5ad3bdd5eaeaf1b9ecce8bd4db3b8ea51c021847.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.2.1_f1ce5c02e9c09bfb43cf2e629c61735cec5a9de9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.facebook.fbui.textlayoutbuilder\textlayoutbuilder\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0fc6684b40eaf135eccb22fefba8651a2ebb0956.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.47.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="576b5113887747a7592650ae14d980e1c57983c4">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.facebook.react-react-native-0.47.2_bd4dc081a761b986a3d1f28b434710649cebbf21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.2.1_32e553af1b12e9a2ee73cd3b8cc9dd3d1ce8b030.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\.gradle\caches\modules-2\files-2.1\com.facebook.fbui.textlayoutbuilder\staticlayout-proxy\1.0\f162442a19fff13995fbd51ba414d9ee05579080\staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\staticlayout-proxy-1.0_1252441d76483f41c1d589812b127bf7050889a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-1.0.1_5cf1feba6329370b82e724347a99ab6703cc8c39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-drawee-1.0.1_1724964673abf87c4917f77e4f105b7d805bc610.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e1bec33f1ec5367e25676638b430b9d585f3dbec">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.2.1_a67a08ab806648488ec0fa4512b05a42b0d8c45b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\StylesRQ\react-native-google-signin\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="41490f44fd0f360cee24fab24a32eef78ab3405f">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\StylesRQ-react-native-google-signin-unspecified_1ebd53a58d463c04c931e24bce7c9716ffb580f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.2.1_3636befd87a5bce4ccac6853bc4f1905330b33ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-okhttp3\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-okhttp3-1.0.1_f45381321dd2070ccbc2a12a6a61c80093f4b305.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.2.1_3c88e2f108eb20a3e1904ad9e3b5137856afa5f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-fresco-1.0.1_600e1d32f91ce1ab7cab956dec8c278d861f6d2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.facebook.soloader\soloader\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.facebook.soloader-soloader-0.1.0_88257afccf5d6dc6641f2e59e5353e2ecf652187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\.m2\repository\javax\inject\javax.inject\1\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\javax.inject-1_a72f4998214187d8c745274e29f48d997397844e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.facebook.fresco-imagepipeline-base-1.0.1_40f4788e7874a4dcf722c190e4faef725279a91e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.2.1_c18df2573bb1aed35248be062d0d4aaedec519f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_5818d28635be1b2312105dc78cf68f2587f7234d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_5b668e5bb9e7d13e0e194f0343b8de6a20280b42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_d392418d4ebd49f83e1eb12628564c8532c58180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\exploded-aar\com.facebook.react\react-native\0.47.2\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_f81b8a7bcb1d7d539999f719b7db22703abb7e35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ceojo\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\ceojo\Desktop\StylesRQ\android\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_3d3da14b6ac3a33f42ca47146ac230a27b130c5d.jar" />
+    </item>
+
+</items>
